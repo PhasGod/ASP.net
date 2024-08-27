@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GF53\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {}
+    "D:\\LapTrinhWeb\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GF53\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {
+    "D:\\LapTrinhWeb\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GF53\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
+        "projectUniqueName": "D:\\LapTrinhWeb\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
         "projectName": "BaiTap02",
-        "projectPath": "C:\\Users\\GF53\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
+        "projectPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTap02\\BaiTap02\\BaiTap02.csproj",
         "packagesPath": "C:\\Users\\GF53\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GF53\\ASP.net\\BaiTap02\\BaiTap02\\obj\\",
+        "outputPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTap02\\BaiTap02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
