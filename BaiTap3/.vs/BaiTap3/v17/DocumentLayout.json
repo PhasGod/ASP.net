@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
-              "RelativeDocumentMoniker": "BaiTap3\\Views\\Nhom\\Index.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
-              "RelativeToolTip": "BaiTap3\\Views\\Nhom\\Index.cshtml",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Program.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Program.cs",
+              "RelativeToolTip": "BaiTap3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:13:58.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhomController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Controllers\\NhomController.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Controllers\\NhomController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Controllers\\NhomController.cs",
+              "RelativeToolTip": "BaiTap3\\Controllers\\NhomController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-27T06:36:39.47Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:13:49.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTap3\\Views\\Nhom\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
+              "RelativeToolTip": "BaiTap3\\Views\\Nhom\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:02:05.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap3\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaiTap3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T06:18:12.072Z",
               "EditorCaption": ""
