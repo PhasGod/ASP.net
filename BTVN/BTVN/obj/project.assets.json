@@ -5773,19 +5773,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\GF53\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP\\asp_web\\.github\\BTVN\\BTVN\\BTVN.csproj",
+      "projectUniqueName": "D:\\LapTrinhWeb\\ASP.net\\BTVN\\BTVN\\BTVN.csproj",
       "projectName": "BTVN",
-      "projectPath": "D:\\ASP\\asp_web\\.github\\BTVN\\BTVN\\BTVN.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP\\asp_web\\.github\\BTVN\\BTVN\\obj\\",
+      "projectPath": "D:\\LapTrinhWeb\\ASP.net\\BTVN\\BTVN\\BTVN.csproj",
+      "packagesPath": "C:\\Users\\GF53\\.nuget\\packages\\",
+      "outputPath": "D:\\LapTrinhWeb\\ASP.net\\BTVN\\BTVN\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\GF53\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
