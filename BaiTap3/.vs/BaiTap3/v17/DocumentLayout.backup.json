@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\views\\nhom\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|d:\\laptrinhweb\\asp.net\\baitap3\\baitap3\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78429AEA-ED51-4655-8A0B-490BBDE79D62}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\controllers\\nhomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +43,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\.gitignore",
+              "RelativeDocumentMoniker": "BaiTap3\\.gitignore",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\.gitignore",
+              "RelativeToolTip": "BaiTap3\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-27T08:00:08.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BaiTap3\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BaiTap3\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-27T07:47:11.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTap3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTap3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-27T07:46:58.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Program.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Program.cs",
+              "RelativeToolTip": "BaiTap3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:13:58.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NhomController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Controllers\\NhomController.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Controllers\\NhomController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Controllers\\NhomController.cs",
+              "RelativeToolTip": "BaiTap3\\Controllers\\NhomController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:13:49.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap3\\Views\\Nhom\\Index.cshtml",
               "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Nhom\\Index.cshtml",
               "RelativeToolTip": "BaiTap3\\Views\\Nhom\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T07:02:05.242Z",
               "EditorCaption": ""
@@ -44,38 +121,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NhomController.cs",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Controllers\\NhomController.cs",
-              "RelativeDocumentMoniker": "BaiTap3\\Controllers\\NhomController.cs",
-              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Controllers\\NhomController.cs",
-              "RelativeToolTip": "BaiTap3\\Controllers\\NhomController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T07:02:00.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Program.cs",
-              "RelativeDocumentMoniker": "BaiTap3\\Program.cs",
-              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Program.cs",
-              "RelativeToolTip": "BaiTap3\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T07:00:47.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap3\\Views\\Home\\Index.cshtml",
               "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap3\\BaiTap3\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "BaiTap3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T06:18:12.072Z",
               "EditorCaption": ""
