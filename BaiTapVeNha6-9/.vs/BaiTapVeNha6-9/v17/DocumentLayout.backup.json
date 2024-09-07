@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|d:\\laptrinhweb\\baitapvenha6-9\\baitapvenha6-9\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|solutionrelative:baitapvenha6-9\\views\\profile\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|d:\\laptrinhweb\\baitapvenha6-9\\baitapvenha6-9\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|solutionrelative:baitapvenha6-9\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|d:\\laptrinhweb\\baitapvenha6-9\\baitapvenha6-9\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|solutionrelative:baitapvenha6-9\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|d:\\laptrinhweb\\baitapvenha6-9\\baitapvenha6-9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|solutionrelative:baitapvenha6-9\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|d:\\laptrinhweb\\baitapvenha6-9\\baitapvenha6-9\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F224BC5-4C85-41DD-AF69-AD552B133DE8}|BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj|solutionrelative:baitapvenha6-9\\views\\tuan02\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTapVeNha6-9\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTapVeNha6-9\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-07T16:49:06.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Views\\Profile\\Profile.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVeNha6-9\\Views\\Profile\\Profile.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Views\\Profile\\Profile.cshtml",
+              "RelativeToolTip": "BaiTapVeNha6-9\\Views\\Profile\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:45:15.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "BaiTapVeNha6-9\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Controllers\\ProfileController.cs*",
+              "RelativeToolTip": "BaiTapVeNha6-9\\Controllers\\ProfileController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:44:32.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVeNha6-9\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BaiTapVeNha6-9\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:38:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Views\\Tuan02\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiTapVeNha6-9\\Views\\Tuan02\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\Views\\Tuan02\\Index.cshtml",
+              "RelativeToolTip": "BaiTapVeNha6-9\\Views\\Tuan02\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T16:04:51.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

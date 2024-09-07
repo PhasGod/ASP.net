@@ -1,0 +1,34 @@
+﻿﻿@{
+    ViewData["Title"] = "Home Page";
+}
+        <section>
+            <ul>
+                <li> <a href="#">HOME</a></li>
+                <li> <a href="#">Máy tính</a> </li>
+            </ul>
+         
+        </section>
+
+
+<header>
+    <h2>BÀI TẬP</h2>
+</header>
+
+<section>
+    <nav>
+        <ul>
+            <li>@ViewBag.HoTen</li>
+            <li>@ViewBag.MSSV</li>
+            <li><p>Năm @ViewBag.Nam </p></li>
+        </ul>
+    </nav>
+
+    <article>
+        <img src="~/picture/Trong.jpg" style="width:100px;" />
+        <p>HI EVERYONE</p>
+    </article>
+</section>
+
+<footer>
+    <p>Copyright &copy; Lê Mai Minh Trọng - @DateTime.Now.Year</p>
+</footer>

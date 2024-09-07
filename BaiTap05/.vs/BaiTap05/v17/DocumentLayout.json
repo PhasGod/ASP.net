@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|solutionrelative:baitap05\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|d:\\laptrinhweb\\asp.net\\baitap05\\baitap05\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|solutionrelative:baitap05\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|d:\\laptrinhweb\\asp.net\\baitap05\\baitap05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|solutionrelative:baitap05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|d:\\laptrinhweb\\asp.net\\baitap05\\baitap05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|solutionrelative:baitap05\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|d:\\laptrinhweb\\asp.net\\baitap05\\baitap05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|solutionrelative:baitap05\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|d:\\laptrinhweb\\asp.net\\baitap05\\baitap05\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|solutionrelative:baitap05\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A5326D5-5475-4E6F-93BB-09D02443E5D0}|BaiTap05\\BaiTap05.csproj|d:\\laptrinhweb\\asp.net\\baitap05\\baitap05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TheLoaiViewModel.cs",
               "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap05\\BaiTap05\\Models\\TheLoaiViewModel.cs",
               "RelativeDocumentMoniker": "BaiTap05\\Models\\TheLoaiViewModel.cs",
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "BaiTap05\\Views\\TheLoai\\Index2.cshtml",
               "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTap05\\BaiTap05\\Views\\TheLoai\\Index2.cshtml",
               "RelativeToolTip": "BaiTap05\\Views\\TheLoai\\Index2.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-06T07:33:25.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTap05\\BaiTap05\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BaiTap05\\Views\\Home\\Index.cshtml",
@@ -94,8 +94,7 @@
               "RelativeToolTip": "BaiTap05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T07:13:15.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T07:13:15.657Z"
             }
           ]
         }
