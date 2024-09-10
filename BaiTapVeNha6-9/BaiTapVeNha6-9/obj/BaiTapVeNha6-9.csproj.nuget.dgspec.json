@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj": {}
+    "D:\\LapTrinhWeb\\ASP.net\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj": {}
   },
   "projects": {
-    "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj": {
+    "D:\\LapTrinhWeb\\ASP.net\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj",
+        "projectUniqueName": "D:\\LapTrinhWeb\\ASP.net\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj",
         "projectName": "BaiTapVeNha6-9",
-        "projectPath": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj",
+        "projectPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\BaiTapVeNha6-9.csproj",
         "packagesPath": "C:\\Users\\GF53\\.nuget\\packages\\",
-        "outputPath": "D:\\LapTrinhWeb\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\obj\\",
+        "outputPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTapVeNha6-9\\BaiTapVeNha6-9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

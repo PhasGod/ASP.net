@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LapTrinhWeb\\BaiTap06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|d:\\laptrinhweb\\baitap06\\baitap06\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|d:\\laptrinhweb\\baitap06\\baitap06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|d:\\laptrinhweb\\baitap06\\baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|d:\\laptrinhweb\\baitap06\\baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|d:\\laptrinhweb\\baitap06\\baitap06\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|d:\\laptrinhweb\\baitap06\\baitap06\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|d:\\laptrinhweb\\baitap06\\baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8141A39-A70C-431A-92C4-21D15492486B}|BaiTap06\\BaiTap06.csproj|solutionrelative:baitap06\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "BaiTap06\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "BaiTap06\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T11:52:44.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BaiTap06\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BaiTap06\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:40:15.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiTap06\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiTap06\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T07:35:14.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "BaiTap06\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "BaiTap06\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T07:34:37.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "BaiTap06\\Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "BaiTap06\\Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:33:43.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "BaiTap06\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "BaiTap06\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T06:14:04.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "BaiTap06\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-09T06:14:42.838Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

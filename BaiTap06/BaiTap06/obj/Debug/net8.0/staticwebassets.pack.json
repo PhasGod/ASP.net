@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BaiTap06.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BaiTap06.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\flex-slider.min.css",
+      "PackagePath": "staticwebassets\\css\\flex-slider.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\magnific-popup.min.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\niceselect.css",
+      "PackagePath": "staticwebassets\\css\\niceselect.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\reset.css",
+      "PackagePath": "staticwebassets\\css\\reset.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\images\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\map-marker.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\images\\payment-method.png",
+      "PackagePath": "staticwebassets\\images\\payment-method.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\images\\payments.png",
+      "PackagePath": "staticwebassets\\images\\payments.png"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\active.js",
+      "PackagePath": "staticwebassets\\js\\active.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\easing.js",
+      "PackagePath": "staticwebassets\\js\\easing.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\facnybox.min.js",
+      "PackagePath": "staticwebassets\\js\\facnybox.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\finalcountdown.min.js",
+      "PackagePath": "staticwebassets\\js\\finalcountdown.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\flex-slider.js",
+      "PackagePath": "staticwebassets\\js\\flex-slider.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\gmap.min.js",
+      "PackagePath": "staticwebassets\\js\\gmap.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.0.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\map-script.js",
+      "PackagePath": "staticwebassets\\js\\map-script.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\nicesellect.js",
+      "PackagePath": "staticwebassets\\js\\nicesellect.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\onepage-nav.min.js",
+      "PackagePath": "staticwebassets\\js\\onepage-nav.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\scrollup.js",
+      "PackagePath": "staticwebassets\\js\\scrollup.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\js\\slicknav.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\js\\ytplayer.min.js",
+      "PackagePath": "staticwebassets\\js\\ytplayer.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\BaiTap06\\BaiTap06\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BaiTap06.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BaiTap06.props",
+      "PackagePath": "build\\BaiTap06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BaiTap06.props",
+      "PackagePath": "buildMultiTargeting\\BaiTap06.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BaiTap06.props",
+      "PackagePath": "buildTransitive\\BaiTap06.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
