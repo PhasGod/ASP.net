@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "DangKy";
+}
+@model TaiKhoanViewModel
+
+<div class="container">
+    <h3>Đăng Ký </h3>
+    <form method="post">
+        <label asp-for="Username">Usernam: </label>
+        <input asp-for="Username" type="text" class="form-control" />
+
+        <label asp-for="Password">Password: </label>
+        <input asp-for="Password" type="password" class="form-control" />
+
+        <label asp-for="Hoten">Họ và tên : </label>
+        <input asp-for="Hoten" type="text" class="form-control" />
+
+        <label asp-for="Tuoi">Tuổi : </label>
+        <input asp-for="Tuoi" type="number" class="form-control" />
+
+        <button type="submit" class="btn btn-primary">Đăng ký</button>
+        @if (Model != null)
+        {
+            <p> Username đã nhập là: @Model.Username</p>
+            <p> Password sau mã hóa là: @Model.Password</p>
+            <p> Họ và tên người đăng kí là: @Model.Hoten</p>
+            <p> Độ tuổi: @Model.Tuoi</p>
+        }
+    </form>
+</div>
