@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\",
+  "WorkspaceRootPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\baitapkiemtra01\\baitapkiemtra01\\views\\baitap2\\baitap2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\asp.net\\baitapkiemtra01\\baitapkiemtra01\\views\\baitap2\\baitap2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|solutionrelative:baitapkiemtra01\\views\\baitap2\\baitap2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\baitapkiemtra01\\baitapkiemtra01\\controllers\\baitap2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\asp.net\\baitapkiemtra01\\baitapkiemtra01\\controllers\\baitap2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|solutionrelative:baitapkiemtra01\\controllers\\baitap2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\baitapkiemtra01\\baitapkiemtra01\\models\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\asp.net\\baitapkiemtra01\\baitapkiemtra01\\models\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|solutionrelative:baitapkiemtra01\\models\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\baitapkiemtra01\\baitapkiemtra01\\views\\taikhoan\\taikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|d:\\laptrinhweb\\asp.net\\baitapkiemtra01\\baitapkiemtra01\\views\\taikhoan\\taikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BDA403BD-B5FF-47A8-AC36-C957FFEF2263}|BaiTapKiemTra01\\BaiTapKiemTra01.csproj|solutionrelative:baitapkiemtra01\\views\\taikhoan\\taikhoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -32,35 +32,33 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SanPhamViewModel.cs",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
               "RelativeDocumentMoniker": "BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
-              "ToolTip": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
               "RelativeToolTip": "BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T07:30:42.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T07:30:42.693Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "BaiTap2Controller.cs",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Controllers\\BaiTap2Controller.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Controllers\\BaiTap2Controller.cs",
               "RelativeDocumentMoniker": "BaiTapKiemTra01\\Controllers\\BaiTap2Controller.cs",
-              "ToolTip": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Controllers\\BaiTap2Controller.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Controllers\\BaiTap2Controller.cs",
               "RelativeToolTip": "BaiTapKiemTra01\\Controllers\\BaiTap2Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T07:24:03.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T07:24:03.108Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BaiTap2.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\BaiTap2\\BaiTap2.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\BaiTap2\\BaiTap2.cshtml",
               "RelativeDocumentMoniker": "BaiTapKiemTra01\\Views\\BaiTap2\\BaiTap2.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\BaiTap2\\BaiTap2.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\BaiTap2\\BaiTap2.cshtml",
               "RelativeToolTip": "BaiTapKiemTra01\\Views\\BaiTap2\\BaiTap2.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -71,14 +69,13 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "TaiKhoan.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\TaiKhoan\\TaiKhoan.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\TaiKhoan\\TaiKhoan.cshtml",
               "RelativeDocumentMoniker": "BaiTapKiemTra01\\Views\\TaiKhoan\\TaiKhoan.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\TaiKhoan\\TaiKhoan.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\Views\\TaiKhoan\\TaiKhoan.cshtml",
               "RelativeToolTip": "BaiTapKiemTra01\\Views\\TaiKhoan\\TaiKhoan.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-10T06:28:58.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-10T06:28:58.826Z"
             }
           ]
         }

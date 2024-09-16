@@ -1,0 +1,27 @@
+﻿﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <table class="table">
+        <thead>
+        <th>Tên Thể loại</th>
+        <th>Ngày tạo</th>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.TheLoai)
+            {
+                <tr>
+                    <td width="30%">
+                        @item.Name
+                    </td>
+                    <td width="70%">
+                        @String.Format("{00:dd/MM/yyyy}", item.DateCreated)
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="TheLoai" asp-action="Create" class="btn btn-primary">Thêm mới</a>
+</div>

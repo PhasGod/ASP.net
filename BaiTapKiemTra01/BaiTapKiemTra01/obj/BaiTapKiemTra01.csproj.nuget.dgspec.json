@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj": {}
+    "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj": {}
   },
   "projects": {
-    "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj": {
+    "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
+        "projectUniqueName": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
         "projectName": "BaiTapKiemTra01",
-        "projectPath": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
+        "projectPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
         "packagesPath": "C:\\Users\\GF53\\.nuget\\packages\\",
-        "outputPath": "D:\\LapTrinhWeb\\BaiTapKiemTra01\\BaiTapKiemTra01\\obj\\",
+        "outputPath": "D:\\LapTrinhWeb\\ASP.net\\BaiTapKiemTra01\\BaiTapKiemTra01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
