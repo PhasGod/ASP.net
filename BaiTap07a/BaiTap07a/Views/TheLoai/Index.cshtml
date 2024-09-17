@@ -8,6 +8,7 @@
         <thead>
         <th>Tên Thể loại</th>
         <th>Ngày tạo</th>
+        <th>Chức năng</th>
         </thead>
         <tbody>
             @foreach (var item in ViewBag.TheLoai)
@@ -16,8 +17,16 @@
                     <td width="30%">
                         @item.Name
                     </td>
-                    <td width="70%">
+                    <td width="30%">
                         @String.Format("{00:dd/MM/yyyy}", item.DateCreated)
+                    </td>
+                    <td width="40%">
+                        <a asp-action="Edit" asp-route-id="@item.Id">
+                            Edit
+                        </a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">
+                            Delete
+                        </a>
                     </td>
                 </tr>
             }

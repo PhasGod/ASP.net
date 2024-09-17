@@ -1,9 +1,9 @@
 ﻿@model BaiTap07a.Models.TheLoai
 
 <div class="container">
-    <h3>Thêm thể loại</h3>
+    <h3>Sửa tên phim</h3>
     <div asp-validation-summary="All" class="text-danger"></div>
-    <form method="post">
+    <form method="post" asp-action="Edit">
         <div class="form-group">
             <label asp-for="Name">Tên thể loại</label>
             <input asp-for="Name" type="text" class="form-control" />
@@ -14,7 +14,7 @@
             <input asp-for="DateCreated" type="date" class="form-control" />
             <span asp-validation-for="DateCreated" class="text-danger"></span>
         </div>
-        <button type="submit" class="btn btn-primary">Tạo mới</button>
+        <button type="submit" class="btn btn-primary">Cập nhật</button>
     </form>
 </div>
 
