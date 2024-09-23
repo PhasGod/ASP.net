@@ -58,6 +58,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/LapTrinhWeb/ASP.net/BaiTap07a/BaiTap07a/Views/TheLoai/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/LapTrinhWeb/ASP.net/BaiTap07a/BaiTap07a/Views/TheLoai/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGhlTG9haVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
