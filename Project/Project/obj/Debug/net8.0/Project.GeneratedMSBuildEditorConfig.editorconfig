@@ -17,83 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Project
 build_property.RootNamespace = Project
-build_property.ProjectDir = D:\LapTrinhWeb\Project\Project\
+build_property.ProjectDir = D:\LapTrinhWeb\ASP.net\Project\Project\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\LapTrinhWeb\Project\Project
+build_property.MSBuildProjectDirectory = D:\LapTrinhWeb\ASP.net\Project\Project
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Admin/Views/TheLoai/Create.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/Views/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/Views/TheLoai/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Admin/Views/TheLoai/Delete.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/Views/TheLoai/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Admin/Views/TheLoai/Detail.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/Views/TheLoai/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Admin/Views/TheLoai/Edit.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/Views/TheLoai/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Admin/Views/TheLoai/Index.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/Views/TheLoai/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Admin/_ViewImports.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Admin/_ViewStart.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Admin/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Customer/Views/Home/Index.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Customer/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Customer/Views/Home/Privacy.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Customer/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Customer/_ViewImports.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Customer/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Customer/_ViewStart.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Customer/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Views/Shared/Error.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Views/Shared/_LoginPartial.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Views/_ViewImports.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Views/_ViewStart.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LapTrinhWeb/Project/Project/Views/Shared/_Layout.cshtml]
+[D:/LapTrinhWeb/ASP.net/Project/Project/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9q8ibpt6yd

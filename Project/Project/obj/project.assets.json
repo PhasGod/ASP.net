@@ -8240,11 +8240,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LapTrinhWeb\\Project\\Project\\Project.csproj",
+      "projectUniqueName": "D:\\LapTrinhWeb\\ASP.net\\Project\\Project\\Project.csproj",
       "projectName": "Project",
-      "projectPath": "D:\\LapTrinhWeb\\Project\\Project\\Project.csproj",
+      "projectPath": "D:\\LapTrinhWeb\\ASP.net\\Project\\Project\\Project.csproj",
       "packagesPath": "C:\\Users\\GF53\\.nuget\\packages\\",
-      "outputPath": "D:\\LapTrinhWeb\\Project\\Project\\obj\\",
+      "outputPath": "D:\\LapTrinhWeb\\ASP.net\\Project\\Project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

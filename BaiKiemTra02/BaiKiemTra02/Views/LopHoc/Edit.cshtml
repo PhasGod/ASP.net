@@ -1,0 +1,42 @@
+﻿@using BaiKiemTra02.Data
+@using BaiKiemTra02.Models
+@model LopHoc
+
+
+
+<h1>Chỉnh sửa lớp học</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="TenLop" class="control-label"></label>
+                <input asp-for="TenLop" class="form-control" />
+                <span asp-validation-for="TenLop" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NamNhapHoc" class="control-label"></label>
+                <input asp-for="NamNhapHoc" class="form-control" />
+                <span asp-validation-for="NamNhapHoc" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NamRaTruong" class="control-label"></label>
+                <input asp-for="NamRaTruong" class="form-control" />
+                <span asp-validation-for="NamRaTruong" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SoLuongSV" class="control-label"></label>
+                <input asp-for="SoLuongSV" class="form-control" />
+                <span asp-validation-for="SoLuongSV" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu thay đổi" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Trở lại danh sách</a>
+</div>

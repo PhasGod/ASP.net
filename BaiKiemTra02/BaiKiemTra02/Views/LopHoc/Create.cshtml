@@ -1,0 +1,37 @@
+﻿@using BaiKiemTra02.Data
+@model LopHoc
+
+<div class="container">
+<h3>Thêm Lớp học</h3>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form method="post">
+    <div class="form-group">
+        <label asp-for="TenLop">Tên Lớp</label>
+        <input asp-for="TenLop" type="text" class="form-control" />
+        <span asp-validation-for="TenLop" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="NamNhapHoc">Năm Nhập Học</label>
+        <input asp-for="NamNhapHoc" type="date" class="form-control" />
+        <span asp-validation-for="NamNhapHoc" class="text-danger"></span>
+    </div>
+        <div class="form-group">
+            <label asp-for="NamRaTruong">Năm Ra Trường</label>
+            <input asp-for="NamRaTruong" type="date" class="form-control" />
+            <span asp-validation-for="NamRaTruong" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="SoLuongSV">Số lượng sinh viên</label>
+            <input asp-for="SoLuongSV" type="text" class="form-control" />
+            <span asp-validation-for="SoLuongSV" class="text-danger"></span>
+        </div>
+    <button type="submit" class="btn btn-primary">Tạo mới</button>
+</form>
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}
