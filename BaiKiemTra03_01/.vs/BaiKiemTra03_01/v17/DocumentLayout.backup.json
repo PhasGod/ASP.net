@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaiKiemTra03_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|d:\\baikiemtra03_01\\baikiemtra03_01\\views\\phongban\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\phongban\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|d:\\baikiemtra03_01\\baikiemtra03_01\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\nhanvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|d:\\baikiemtra03_01\\baikiemtra03_01\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\controllers\\nhanviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|d:\\baikiemtra03_01\\baikiemtra03_01\\controllers\\phongbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\controllers\\phongbancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|d:\\baikiemtra03_01\\baikiemtra03_01\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{462AE1CD-2752-4FB3-9ADC-48786AF14DE1}|BaiKiemTra03_01\\BaiKiemTra03_01.csproj|solutionrelative:baikiemtra03_01\\views\\nhanvien\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "ToolTip": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\PhongBan\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:07:09.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "ToolTip": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\NhanVien\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:05:54.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "ToolTip": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_01\\Views\\NhanVien\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T07:57:41.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhongBanController.cs",
+              "DocumentMoniker": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "ToolTip": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Controllers\\PhongBanController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA6wGEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:53:51.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienController.cs",
+              "DocumentMoniker": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "ToolTip": "D:\\BaiKiemTra03_01\\BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "RelativeToolTip": "BaiKiemTra03_01\\Controllers\\NhanVienController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:53:46.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿
+
+<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString" placeholder="Nhập Phòng ban cần tìm ... " value="@ViewBag.searchString" />
+        <input type="submit" value="Tìm kiếm" />
+
+    </form>
+    <hr />
+    <table class="table">
+        <thead>
+        <th>Mã phòng ban</th>
+        <th>Tên phòng ban</th>
+        <th>Số lượng nhân viên</th>
+        <th>Phòng ban quản lý</th>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.PhongBan)
+            {
+                <tr>
+                    <td width="20%">
+                        @item.Id
+                    </td>
+                    <td width="20%">
+                        @item.Name
+                    </td>
+                    <td width="20%">
+                        @item.SoLuongnv
+                    </td>
+                    <td width="20%">
+                        @item.PhongBanQL
+                    </td>         
+                    <td width="20%">
+                        <a asp-action="Edit" asp-route-id="@item.Id">
+                            Edit
+                        </a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">
+                            Delete
+                        </a> |
+                        <a asp-action="Detail" asp-route-id="@item.Id">
+                            Detail
+                        </a> |
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="PhongBan" asp-action="Create" class="btn btn-primary">Thêm mới</a>
+</div>

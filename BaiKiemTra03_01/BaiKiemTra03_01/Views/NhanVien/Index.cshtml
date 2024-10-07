@@ -1,0 +1,53 @@
+﻿
+
+<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString" placeholder="Nhập nhân viên cần tìm ... " value="@ViewBag.searchString" />
+        <input type="submit" value="Tìm kiếm" />
+
+    </form>
+    <hr />
+    <table class="table">
+        <thead>
+        <th>Mã nhân viên</th>
+        <th>Tên nhân viên</th>
+        <th>Chức vụ</th>
+        <th>Phòng ban</th>
+        <th>Ngày bắt đầu làm việc</th>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.NhanVien)
+            {
+                <tr>
+                    <td width="10%">
+                        @item.Id
+                    </td>
+                    <td width="10%">
+                        @item.Name
+                    </td>
+                    <td width="20%">
+                        @item.Position
+                    </td>
+                    <td width="20%">
+                        @item.DepartmentId
+                    </td>
+                    <td width="20%">
+                        @String.Format("{00:dd/MM/yyyy}", item.HireDate)
+                    </td>
+                    <td width="20%">
+                        <a asp-action="Edit" asp-route-id="@item.Id">
+                            Edit
+                        </a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">
+                            Delete
+                        </a> |
+                        <a asp-action="Detail" asp-route-id="@item.Id">
+                            Detail
+                        </a> |
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a asp-controller="NhanVien" asp-action="Create" class="btn btn-primary">Thêm mới</a>
+</div>
