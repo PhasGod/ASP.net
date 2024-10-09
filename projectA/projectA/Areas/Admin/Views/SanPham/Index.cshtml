@@ -1,5 +1,7 @@
 ﻿@model IEnumerable<SanPham>
+
 <div class="container">
+
     <table class="table">
         <thead>
             <tr>
@@ -17,11 +19,12 @@
                 <tr>
                     <td>@item.Name</td>
                     <td>@item.Description</td>
-                    <td>@item.price</td>
+                    <td>@item.price.ToString("N0") đ</td>
                     <td><img src="@item.ImageUrl" width="50%"/></td>
+                    <td>@item.TheLoaiId</td>
                     <td>
                         <a asp-action="upsert" asp-route-id="@item.Id">Edit</a> |
-                        <a asp-action="Details">Details</a> |
+                        <a asp-action="Detail" asp-route-id= "@item.Id" >Detail</a> |
                         <a class="text-danger" onclick="confirmDelete(@item.Id, $(this))">Delete</a> |
                     </td>
                 </tr>

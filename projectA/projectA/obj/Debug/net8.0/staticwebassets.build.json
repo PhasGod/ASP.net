@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M7rVjdcD4WjYyWpRK96y1LDA8gGrcumEUb6Z6F0SWOs=",
+  "Hash": "ZhMBFBUMJZ13+4SVAfW0+axj8gnXARxx57dEbE7QhAo=",
   "Source": "projectA",
   "BasePath": "_content/projectA",
   "Mode": "Default",
@@ -1195,6 +1195,25 @@
       "OriginalItemSpec": "D:\\LapTrinhWeb\\projectA\\projectA\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\projectA.bundle.scp.css"
     },
     {
+      "Identity": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\css\\1.css",
+      "SourceId": "projectA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\",
+      "BasePath": "_content/projectA",
+      "RelativePath": "css/1.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\1.css"
+    },
+    {
       "Identity": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\css\\site.css",
       "SourceId": "projectA",
       "SourceType": "Discovered",
@@ -1231,6 +1250,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\js\\1.js",
+      "SourceId": "projectA",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\",
+      "BasePath": "_content/projectA",
+      "RelativePath": "js/1.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\1.js"
     },
     {
       "Identity": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\js\\site.js",

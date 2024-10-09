@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\projectA.bundle.scp.css"
     },
     {
+      "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\css\\1.css",
+      "PackagePath": "staticwebassets\\css\\1.css"
+    },
+    {
       "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\js\\1.js",
+      "PackagePath": "staticwebassets\\js\\1.js"
     },
     {
       "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\js\\site.js",

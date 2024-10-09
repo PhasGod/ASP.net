@@ -33,5 +33,15 @@ namespace projectA.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            SanPham sanpham = new SanPham();
+
+            sanpham = _db.SanPham.Include(sp => sp.TheLoai).FirstOrDefault(sp => sp.Id == id);
+
+            return View(sanpham);
+        }
     }
 }

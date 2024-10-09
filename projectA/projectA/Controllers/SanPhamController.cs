@@ -79,5 +79,15 @@ namespace projectA.Controllers
                 return Json(new { success = true });
         }
 
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var sanpham = _db.SanPham.Find(id);
+            return View(sanpham);
+        }
     }
 }

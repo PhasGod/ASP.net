@@ -1,0 +1,89 @@
+﻿@model SanPham
+
+<style>
+    .product-image {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .quantity-control {
+        display: flex;
+        justify-content: left;
+        align-items: left;
+    }
+
+    .quantity-control button {
+        width: 40px;
+        height: 40px;
+    }
+
+    .quantity-input {
+        width: 60px;
+        text-align: center;
+    }
+</style>
+<div class="container mt-5">
+    <div class="row">
+        <!-- Product Image -->
+        <div class="col-md-6">
+            <img src="@Model.ImageUrl" alt="Product Image" class="product-image">
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-md-6">
+            <h1 class="product-title">@Model.Name</h1>
+            <p class="product-description">@Model.Description</p>
+            <h4 class="product-price text-danger">
+                @Model.price.ToString("N0") đ
+            </h4>
+
+            <!-- Quantity Selector -->
+            <div class="quantity-control my-3">
+                <button class="btn btn-outline-secondary" onclick="decreaseQuantity()">-</button>
+                <input type="text" class="form-control quantity-input mx-2" id="quantity" value="1" readonly>
+                <button class="btn btn-outline-secondary" onclick="increaseQuantity()">+</button>
+            </div>
+
+            <!-- Add to Cart Button -->
+            <button class="btn btn-danger">Mua ngay</button>
+            <button class="btn btn-primary" onclick="addToCart()">Thêm vào giỏ hàng</button>
+
+            <!-- Success Message -->
+            <div id="cart-message" class="alert alert-success mt-3 d-none">
+                Product added to cart successfully!
+            </div>
+        </div>
+    </div> <!-- Custom JavaScript -->
+    <script>
+        function increaseQuantity() {
+            var quantityInput = document.getElementById('quantity');
+            var currentValue = parseInt(quantityInput.value);
+            quantityInput.value = currentValue + 1;
+        }
+
+        function decreaseQuantity() {
+            var quantityInput = document.getElementById('quantity');
+            var currentValue = parseInt(quantityInput.value);
+            if (currentValue > 1) {
+                quantityInput.value = currentValue - 1;
+            }
+        }
+
+        function addToCart() {
+            var quantity = document.getElementById('quantity').value;
+            var messageDiv = document.getElementById('cart-message');
+
+            // Display success message
+            messageDiv.classList.remove('d-none');
+            messageDiv.textContent = 'Product added to cart! Quantity: ' + quantity;
+
+            // Optionally, you can reset the quantity back to 1 after adding to cart
+            document.getElementById('quantity').value = 1;
+
+            // Hide message after 3 seconds
+            setTimeout(function () {
+                messageDiv.classList.add('d-none');
+            }, 3000);
+        }
+    </script>
+</div>

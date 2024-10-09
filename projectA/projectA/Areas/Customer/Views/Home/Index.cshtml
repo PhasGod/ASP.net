@@ -33,17 +33,19 @@
                 <div class="card" style="width: 18rem;">
                     <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name">
                     <div class="card-body">
-                        <h5 class="card-title">@item.Name</h5>
+                        <h5 class="card-title">@item.Name </h5>
                         <h6 class="card-title">@item.price</h6>
                         <p class="card-text">@item.Description</p>
                         <div class="row">
-                            <div class="col-6">
-                                 <a href="#" class="btn btn-primary"> yêu thích</a>
+                            <div class="col-4">
+                                <a class="btn btn-primary" > yêu thích &#10084;</a>
                             </div>
-                        
+                            <div class="col-4">
+                                     <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id"> Chi tiết </a>
+                            </div>
                        
-                            <div class="col-6">
-                                 <a href="#" class="btn btn-danger"> giỏ hàng</a>
+                            <div class="col-4">
+                                 <a class="btn btn-danger"> giỏ hàng</a>
                             </div>
                         </div>
                     </div>
