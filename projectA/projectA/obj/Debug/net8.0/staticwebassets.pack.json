@@ -17,6 +17,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\img\\1.jfif",
+      "PackagePath": "staticwebassets\\img\\1.jfif"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\img\\2.jfif",
+      "PackagePath": "staticwebassets\\img\\2.jfif"
+    },
+    {
+      "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\img\\3.png",
+      "PackagePath": "staticwebassets\\img\\3.png"
+    },
+    {
       "Id": "D:\\LapTrinhWeb\\projectA\\projectA\\wwwroot\\js\\1.js",
       "PackagePath": "staticwebassets\\js\\1.js"
     },

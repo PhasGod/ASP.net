@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "D:\\LapTrinhWeb\\projectA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\customer\\views\\giohang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\giohang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\customer\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,81 +38,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "projectA\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T07:11:37.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "projectA\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAowC0AAABCAAAAAAAAAA==",
+              "Title": "ThanhToan.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
+              "RelativeToolTip": "projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T07:01:58.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "RelativeToolTip": "projectA\\Areas\\Customer\\Views\\Home\\Details.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAowFgAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T07:00:47.927Z",
+              "WhenOpened": "2024-10-22T07:23:56.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "RelativeToolTip": "projectA\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-08T06:38:21.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SanPham.cs",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Models\\SanPham.cs",
-              "RelativeDocumentMoniker": "projectA\\Models\\SanPham.cs",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Models\\SanPham.cs",
-              "RelativeToolTip": "projectA\\Models\\SanPham.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:29:13.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "projectA\\Controllers\\HomeController.cs",
               "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\HomeController.cs",
               "RelativeToolTip": "projectA\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswCUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:10:21.645Z",
+              "WhenOpened": "2024-10-22T06:16:36.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "projectA\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "projectA\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAQwE4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:13:59.382Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "RelativeToolTip": "projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T07:42:36.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projectA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAEsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T14:46:56.595Z"
             }
           ]
         }

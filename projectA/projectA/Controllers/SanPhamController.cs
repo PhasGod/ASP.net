@@ -89,5 +89,6 @@ namespace projectA.Controllers
             var sanpham = _db.SanPham.Find(id);
             return View(sanpham);
         }
+       
     }
 }

@@ -1,0 +1,141 @@
+﻿@model GioHangViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        input[type="text"] {
+            width: 60px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container my-5">
+        <div class="row">
+            <!-- Giỏ hàng -->
+            <div class="col-md-8">
+                <h2 class="mb-4">Giỏ hàng của bạn</h2>
+                <div class="table-responsive">
+                    <table class="table table-bordered text-center">
+                        <thead class="table-light">
+                            <tr>
+                                <th>STT</th>
+                                <th>Tên sản phẩm</th>
+                                <th>Hình ảnh</th>
+                                <th>Giá tiền</th>
+                                <th>Số lượng</th>
+                                <th>Thành tiền</th>
+                                <th>Hành động</th>
+                            </tr>
+                        </thead>
+                        <tbody>                            
+                          @foreach(var item in Model.DsGioHang)
+                          {
+                                
+                                <tr data-price="@item.SanPham.price">
+                                <td>1</td>
+                                <td>@item.SanPham.Name</td>
+                                <td><img src="@item.SanPham.ImageUrl" alt="San pham A" class="img-fluid" width="100" /></td>
+                                <td>@item.SanPham.price.ToString("N0") </td>
+                                <td>
+                                    <div class="d-flex justify-content-center align-items-center">
+                                        <a class="btn btn-sm btn-outline-secondary minus" asp-action="Giam" asp-route-giohangId="@item.Id">-</a>
+                                            <input value="@item.Quantity" type="text" class="form-control text-center quantity mx-2" id="@item.Quantity" readonly>
+                                        <a class="btn btn-sm btn-outline-secondary plus" asp-action="Tang" asp-route-giohangId="@item.Id">+</a>
+                                    </div>
+                                </td>
+                                    <td class="item-total">@((item.SanPham.price * item.Quantity).ToString("N0"))đ</td>
+                                <td>
+                                    <a asp-action="Xoa"
+                                       asp-route-giohangId="@item.Id" class="btn btn-danger">&#128465;&#65039;</a>
+                                </td>
+                            </tr>
+                          }
+                            
+                            
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <!-- Panel Thanh toán -->
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Thông tin thanh toán</h5>
+
+                        <!-- Tổng cộng -->
+                        <p><strong>Tổng cộng:</strong> <span id="cart-total" class="text-danger"><b>@(string.Format("{0:N0}", Model.HoaDon.Total)) vnđ</b></span></p>
+
+                        <!-- Phương thức thanh toán -->
+                        <h6>Phương thức thanh toán</h6>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="paymentCOD" checked>
+                            <label class="form-check-label" for="paymentCOD">
+                                Thanh toán khi nhận hàng (COD)
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="paymentCard">
+                            <label class="form-check-label" for="paymentCard">
+                                Thanh toán qua thẻ ngân hàng
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="radio" name="paymentMethod" id="paymentEwallet">
+                            <label class="form-check-label" for="paymentEwallet">
+                                Thanh toán qua ví điện tử
+                            </label>
+                        </div>
+
+                        <!-- Mã giảm giá -->
+                        <div class="input-group mt-3">
+                            <input type="text" class="form-control" placeholder="Nhập mã giảm giá">
+                            <button class="btn btn-outline-secondary" type="button">Áp dụng</button>
+                        </div>
+
+                        <!-- Nút đặt hàng -->
+                        <a asp-action="ThanhToan" asp-controller="GioHang" class="btn btn-success mt-3 w-100">Thanh Toán</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+
+        // Xóa sản phẩm
+        document.querySelectorAll('.remove').forEach(button => {
+            button.addEventListener('click', function() {
+                this.closest('tr').remove();
+                updateTotal();
+            });
+        });
+
+        // Cập nhật thành tiền của từng hàng và tổng cộng
+        function updateRow(button) {
+            let row = button.closest('tr');
+            let price = parseInt(row.getAttribute('data-price'));
+            let quantity = parseInt(row.querySelector('.quantity').value);
+            let itemTotal = price * quantity;
+            row.querySelector('.item-total').textContent = new Intl.NumberFormat('vi-VN').format(itemTotal) + 'đ';
+            updateTotal();
+        }
+
+        // Cập nhật tổng cộng
+        function updateTotal() {
+            let total = 0;
+            document.querySelectorAll('tbody tr').forEach(row => {
+                let itemTotal = parseInt(row.querySelector('.item-total').textContent.replace(/[^0-9]/g, ''));
+                total += itemTotal;
+            });
+            document.getElementById('cart-total').textContent = new Intl.NumberFormat('vi-VN').format(total) + 'đ';
+        }
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

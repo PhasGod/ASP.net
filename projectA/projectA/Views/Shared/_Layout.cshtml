@@ -12,48 +12,70 @@
 </head>
 <body>
     <header>
-
-		<!-- Top Bar -->
-
-		<div class="top_bar">
-			<div class="container">
-				<div class="row">
-					<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-						<div class="container-fluid">
-							<div class="col d-flex flex-row">
-								<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918577/phone.png" alt=""></div>+91 9823 132 111</div>
-								<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918597/mail.png" alt=""></div><a href="mailto:fastsales@gmail.com">contact@bbbootstrap.com</a></div>
-								<div class="top_bar_content ml-auto">
-									<div class="top_bar_menu">
-										<ul class="standard_dropdown top_bar_dropdown">
-											<li>
-												<a href="#">English<i class="fas fa-chevron-down"></i></a>
-												<ul>
-													<li><a href="#">Italian</a></li>
-													<li><a href="#">Spanish</a></li>
-													<li><a href="#">Japanese</a></li>
-												</ul>
-											</li>
-											<li>
-												<a href="#">$ US dollar<i class="fas fa-chevron-down"></i></a>
-												<ul>
-													<li><a href="#">EUR Euro</a></li>
-													<li><a href="#">GBP British Pound</a></li>
-													<li><a href="#">JPY Japanese Yen</a></li>
-												</ul>
-											</li>
-										</ul>
-										<div class="collapse navbar-collapse justify-content-end">
-
-											<partial name="_LoginPartial" />
-										</div>
-									</div>							
-						</div>
-					</nav>
-					
+		<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+			<div class="container-fluid">
+				<a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><img src="~/img/3.png"></a>
+				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+						aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+					<ul class="navbar-nav flex-grow-1">
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index"></a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy"></a>
+						</li>
+						<li>
+							<div class="top_bar">
+								<div class="container">
+									<div class="row">
+										<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+											<div class="container-fluid">
+												<div class="col d-flex flex-row">
+													<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918577/phone.png" alt=""></div>+84 967 630 387</div>
+													<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918597/mail.png" alt=""></div><a href="mailto:fastsales@gmail.com">1822040869@dntu.edu.vn</a></div>
+													<div class="top_bar_content ml-auto">
+														<div class="top_bar_menu">
+															<ul class="standard_dropdown top_bar_dropdown">
+																<li>
+																	<a href="#">English<i class="fas fa-chevron-down"></i></a>
+																	<ul>
+																		<li><a href="#">Vietnamese</a></li>
+																		<li><a href="#">Spanish</a></li>
+																		<li><a href="#">Japanese</a></li>
+																	</ul>
+																</li>
+																<li>
+																	<a href="#">$ US dollar<i class="fas fa-chevron-down"></i></a>
+																	<ul>
+																		<li><a href="#">EUR Euro</a></li>
+																		<li><a href="#">GBP British Pound</a></li>
+																		<li><a href="#">JPY Japanese Yen</a></li>
+																	</ul>
+																</li>
+																<li class="nav-item">
+																	<a class="nav-link" asp-action="Index" asp-controller="GioHang">Giỏ hàng</a>
+																</li>
+															</ul>
+														</div>
+													</div>													
+												</div>
+											</div>
+										</nav>
+									</div>
+								</div>
+							</div>
+						</li>
+					</ul>
+					<partial name="_LoginPartial" />
 				</div>
 			</div>
-		</div>
+		</nav>
+		<!-- Top Bar -->
+
+
 
 		<!-- Header Main -->
 
@@ -64,7 +86,7 @@
 					<!-- Logo -->
 					<div class="col-lg-2 col-sm-3 col-3 order-1">
 						<div class="logo_container">
-							<div class="logo"><a href="#">BCTM</a></div>
+							<div class="logo"><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">BCTM</a></div>
 						</div>
 					</div>
 
@@ -111,13 +133,9 @@
 							<div class="cart">
 								<div class="cart_container d-flex flex-row align-items-center justify-content-end">
 									<div class="cart_icon">
-										<img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918704/cart.png" alt="">
-										<div class="cart_count"><span>3</span></div>
-									</div>
-									<div class="cart_content">
-										<div class="cart_text"><a href="#">Cart</a></div>
-										<div class="cart_price">$185</div>
-									</div>
+										<a asp-action="Index" asp-controller="GioHang" class="as fa-comment-dollar" style="font-size:48px">	<img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918704/cart.png" alt=""></a>
+										<div class="cart_count">0</div>
+									</div>								
 								</div>
 							</div>
 						</div>
@@ -136,27 +154,15 @@
 						<div class="main_nav_content d-flex flex-row">
 
 							<!-- Categories Menu -->
+
 							<!-- Main Nav Menu -->
 
 							<div class="main_nav_menu">
 								<ul class="standard_dropdown main_nav_dropdown">
-									<li><a href="#">Home<i class="fas fa-chevron-down"></i></a></li>
-									<li class="hassubs">
-										<a href="#">Laptop<i class="fas fa-chevron-down"></i></a>
-										<ul>
-											<li>
-												<a href="#">Lenovo<i class="fas fa-chevron-down"></i></a>
-												<ul>
-													<li><a href="#">Lenovo 1<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Lenovo 3<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Lenovo 2<i class="fas fa-chevron-down"></i></a></li>
-												</ul>
-											</li>
-											<li><a href="#">DELL<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">APPLE<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">HP<i class="fas fa-chevron-down"></i></a></li>
-										</ul>
-									</li>
+									<li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Home<i class="fas fa-chevron-down"></i></a></li>
+
+									<vc:the-loai></vc:the-loai>
+
 									<li class="hassubs">
 										<a href="#">Featured Brands<i class="fas fa-chevron-down"></i></a>
 										<ul>
@@ -298,14 +304,139 @@
     <div class="container">
 
         <main role="main" class="pb-3">
+
             @RenderBody()
         </main>
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - projectA - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
+		<!-- Remove the container if you want to extend the Footer to full width. -->
+		<div class="container my-5">
+
+			<!-- Footer -->
+			<footer class="text-center text-lg-start text-white"
+					style="background-color: #1c2331">
+				<!-- Section: Social media -->
+				<section class="d-flex justify-content-between p-4"
+						 style="background-color: #6351ce">
+					<!-- Left -->
+					<div class="me-5">
+						<span>Liên hệ với chúng tôi tại:</span>
+					</div>
+					<!-- Left -->
+					<!-- Right -->
+					<div>
+						<a href="" class="text-white me-4">
+							<i class="fab fa-facebook-f"></i>
+						</a>
+						<a href="" class="text-white me-4">
+							<i class="fab fa-twitter"></i>
+						</a>
+						<a href="" class="text-white me-4">
+							<i class="fab fa-google"></i>
+						</a>
+						<a href="" class="text-white me-4">
+							<i class="fab fa-instagram"></i>
+						</a>
+						<a href="" class="text-white me-4">
+							<i class="fab fa-linkedin"></i>
+						</a>
+						<a href="" class="text-white me-4">
+							<i class="fab fa-github"></i>
+						</a>
+					</div>
+					<!-- Right -->
+				</section>
+				<!-- Section: Social media -->
+				<!-- Section: Links  -->
+				<section class="">
+					<div class="container text-center text-md-start mt-5">
+						<!-- Grid row -->
+						<div class="row mt-3">
+							<!-- Grid column -->
+							<div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+								<!-- Content -->
+								<h6 class="text-uppercase fw-bold">BCTM FOR LIFE</h6>
+								<hr class="mb-4 mt-0 d-inline-block mx-auto"
+									style="width: 60px; background-color: #7c4dff; height: 2px" />
+								<p>
+
+									Trang web bán điện thoại, máy tính, laptop cung cấp đa dạng các sản phẩm công nghệ từ các
+									thương hiệu nổi tiếng như Apple, Samsung, Dell, HP, với đầy đủ thông tin về cấu hình, giá cả và tính
+									năng. Khách hàng dễ dàng so sánh sản phẩm, xem đánh giá từ người dùng và tận hưởng các
+									chương trình khuyến mãi hấp dẫn. Trang web cũng cung cấp dịch vụ giao hàng nhanh chóng, chính
+									sách bảo hành, đổi trả linh hoạt, mang lại trải nghiệm mua sắm tiện lợi và an toàn.
+								</p>
+							</div>
+							<!-- Grid column -->
+							<!-- Grid column -->
+							<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+								<!-- Links -->
+								<h6 class="text-uppercase fw-bold">Các sản phẩm chính</h6>
+								<hr class="mb-4 mt-0 d-inline-block mx-auto"
+									style="width: 60px; background-color: #7c4dff; height: 2px" />
+								<p>
+									<a href="#!" class="text-white">Laptop</a>
+								</p>
+								<p>
+									<a href="#!" class="text-white">Điện thoại</a>
+								</p>
+								<p>
+									<a href="#!" class="text-white">Đồng hồ thông minh</a>
+								</p>
+								<p>
+									<a href="#!" class="text-white">Microphone</a>
+								</p>
+							</div>
+							<!-- Grid column -->
+							<!-- Grid column -->
+							<div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+								<!-- Links -->
+								<h6 class="text-uppercase fw-bold">Những trang mạng xã hội khác:</h6>
+								<hr class="mb-4 mt-0 d-inline-block mx-auto"
+									style="width: 60px; background-color: #7c4dff; height: 2px" />
+								<p>
+									<a href="#!" class="text-white">Facebook</a>
+								</p>
+								<p>
+									<a href="#!" class="text-white">Instargram</a>
+								</p>
+								<p>
+									<a href="#!" class="text-white">TikTok</a>
+								</p>
+								<p>
+									<a href="#!" class="text-white">Zalo</a>
+								</p>
+							</div>
+							<!-- Grid column -->
+							<!-- Grid column -->
+							<div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+								<!-- Links -->
+								<h6 class="text-uppercase fw-bold">Liện hệ với chúng tôi bằng:</h6>
+								<hr class="mb-4 mt-0 d-inline-block mx-auto"
+									style="width: 60px; background-color: #7c4dff; height: 2px" />
+								<p><i class="fas fa-home mr-3"></i> Biên Hòa, Đồng Nai</p>
+								<p><i class="fas fa-envelope mr-3"></i>182240869@dntu.edu.vn</p>
+								<p><i class="fas fa-phone mr-3"></i> +84 967 630 387</p>
+								<p><i class="fas fa-print mr-3"></i> +84 987 270 812</p>
+							</div>
+							<!-- Grid column -->
+						</div>
+						<!-- Grid row -->
+					</div>
+				</section>
+				<!-- Section: Links  -->
+				<!-- Copyright -->
+				<div class="text-center p-3"
+					 style="background-color: rgba(0, 0, 0, 0.2)">
+					© 2024 Copyright					
+				</div>
+				<!-- Copyright -->
+			</footer>
+			<!-- Footer -->
+
+		</div>
+		<!-- End of .container -->
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

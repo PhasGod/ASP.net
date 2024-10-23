@@ -29,23 +29,23 @@
     <div class="row">
         @foreach (var item in Model)
         {
-           <div class="col-3">
-                <div class="card" style="width: 18rem;">
-                    <img src="@item.ImageUrl" class="card-img-top" alt="@item.Name">
-                    <div class="card-body">
+            <div class="col-3 d-flex">
+                <div class="card" style="width: 100%; display: flex; flex-direction: column;">
+                    <a  asp-action="Details" asp-route-sanphamId="@item.Id"><img src="@item.ImageUrl" class="card-img-top" alt="@item.Name" style="object-fit: cover; height: 200px;"></a>
+                    <div class="card-body d-flex flex-column" style="flex-grow: 1;">
                         <h5 class="card-title">@item.Name </h5>
-                        <h6 class="card-title">@item.price</h6>
+                        <h6 class="card-title">@item.price.ToString("N0")</h6>
                         <p class="card-text">@item.Description</p>
                         <div class="row">
                             <div class="col-4">
-                                <a class="btn btn-primary" > yêu thích &#10084;</a>
+                                <a class="btn btn-primary" > Yêu thích &#10084;</a>
                             </div>
                             <div class="col-4">
-                                     <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id"> Chi tiết </a>
+                                     <a class="btn btn-info" asp-action="Details" asp-route-sanphamId="@item.Id"> Chi tiết </a>
                             </div>
                        
                             <div class="col-4">
-                                 <a class="btn btn-danger"> giỏ hàng</a>
+                                 <a asp-action="Index" asp-controller="GioHang" class="btn btn-danger"> Giỏ hàng</a>
                             </div>
                         </div>
                     </div>
