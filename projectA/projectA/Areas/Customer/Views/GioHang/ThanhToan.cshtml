@@ -45,25 +45,28 @@
         font-size: 16px;
     }
 
-    button:hover {
-        background-color: #45a049;
-    }
+        button:hover {
+            background-color: #45a049;
+        }
 </style>
 <div class="container">
     <h2>Thông tin Thanh Toán</h2>
-    <form action="#" method="POST">
+    <form asp-action="ThanhToan" method="POST">
+        @Html.AntiForgeryToken()
+
         <label for="name">Họ tên:</label>
-        <input asp-for="HoaDon.Name" type="text" id="name"  placeholder="Nhập họ tên" required>
+        <input asp-for="HoaDon.Name" type="text" id="name" placeholder="Nhập họ tên" required />
 
         <label for="address">Địa chỉ:</label>
-        <input asp-for="HoaDon.Address" type="text" id="address" name="address" placeholder="Nhập địa chỉ" required>
+        <input asp-for="HoaDon.Address" type="text" id="address" placeholder="Nhập địa chỉ" required />
 
         <label for="phone">Số điện thoại:</label>
-        <input asp-for="HoaDon.PhoneNumber" type="tel" id="phone" name="phone" placeholder="Nhập số điện thoại" required>
+        <input asp-for="HoaDon.PhoneNumber" type="tel" id="phone" placeholder="Nhập số điện thoại" required />
 
         <label for="total">Tổng tiền:</label>
-        <input asp-for="HoaDon.Total" type="number" id="total" name="total" placeholder="Nhập tổng tiền" required>
+        <h1>@Model.HoaDon.Total.ToString("N0") vnđ</h1>
 
         <button type="submit">Đặt hàng</button>
     </form>
+
 </div>

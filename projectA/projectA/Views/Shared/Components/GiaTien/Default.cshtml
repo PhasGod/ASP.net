@@ -1,0 +1,20 @@
+﻿@model IEnumerable<SanPham>
+
+<li class="nav-item dropdown">
+    <a class="nav-link parent dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+        Giá Tiền
+    </a>
+    <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <li>
+            <a asp-controller="Home" asp-action="FillterBySanPham" asp-route-sort="asc" class="dropdown-item">
+                Giá Tăng Dần
+            </a>
+        </li>
+        <li>
+            <a asp-controller="Home" asp-action="FillterBySanPham" asp-route-sort="desc" class="dropdown-item">
+                Giá Giảm Dần
+            </a>
+        </li>
+        <li class="dropdown-divider"></li>
+    </ul>
+</li>

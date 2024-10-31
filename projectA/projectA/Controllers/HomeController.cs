@@ -85,5 +85,10 @@ namespace projectA.Controllers
                                                         .ToList();
             return View("Index", sanpham);
         }
+
+        public IActionResult Blog() 
+        {
+            return View(); 
+        }
     }
 }

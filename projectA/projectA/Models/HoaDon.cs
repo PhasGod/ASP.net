@@ -8,7 +8,7 @@ namespace projectA.Models
     {
         [Key]
         public int Id { get; set; }
-        public string ApplicationUerId { get; set; }
+        public string ApplicationUserId { get; set; }
         [ForeignKey("ApplicationUserId")]
         [ValidateNever]
         public ApplicationUser ApplicationUser { get; set; }
@@ -18,6 +18,5 @@ namespace projectA.Models
         public string PhoneNumber { get; set; }
         public string Name { get; set; }
         public string Address { get; set; }
-        public string ApplicationUserId { get; internal set; }
     }
 }

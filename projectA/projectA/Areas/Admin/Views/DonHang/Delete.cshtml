@@ -1,0 +1,21 @@
+﻿@model HoaDon
+
+<h2>Xóa Hóa Đơn</h2>
+<p>Bạn có chắc chắn muốn xóa hóa đơn này không?</p>
+
+<div>
+    <p><strong>Tên Khách Hàng:</strong> @Model.Name</p>
+    <p><strong>Ngày Đặt Hàng:</strong> @Model.OrderDate.ToString("dd/MM/yyyy")</p>
+    <p><strong>Tổng Số Tiền:</strong> @Model.Total.ToString("N0") đ</p>
+</div>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form asp-controller="DonHang" asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a href="@Url.Action("Index", "DonHang")" class="btn btn-secondary">Hủy</a>
+</form>
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

@@ -106,8 +106,6 @@ D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Conf
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
@@ -588,3 +586,5 @@ D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\runtimes\win-arm\native\e_sqli
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\LapTrinhWeb\projectA\projectA\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

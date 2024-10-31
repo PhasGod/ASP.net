@@ -113,14 +113,8 @@ namespace projectA.Controllers
             var identity = (ClaimsIdentity)User.Identity;
             var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
 
-            // GioHangViewModel giohang = new GioHangViewModel()
-            // {
             giohang.DsGioHang = _db.GioHang.Include("SanPham").Where(gh => gh.ApplicationUserId == claim.Value).ToList();
-           //     HoaDon = new HoaDon()
-            //};
-            // Tim thong tin tai khoan trong CSDL de hien thi len trang tahnh toan 
-            giohang.HoaDon.ApplicationUser = _db.ApplicationUser.FirstOrDefault(user => user.Id == claim.Value);
-            // Gan thong tin tai khoan vao hoa don
+
             giohang.HoaDon.ApplicationUserId = claim.Value;
             giohang.HoaDon.OrderDate = DateTime.Now;
             giohang.HoaDon.OrderStatus = "Đang xác nhận";
@@ -139,16 +133,17 @@ namespace projectA.Controllers
                 {
                     SanPhamId = item.SanPhamId,
                     HoaDonId = giohang.HoaDon.Id,
-                    ProductPrice = item.SanPham.price,
+                    ProductPrice = item.SanPham.price * item.Quantity,
                     Quantity = item.Quantity
                 };
                 _db.ChiTietHoaDon.Add(chitiethoadon);
                 _db.SaveChanges();
             }
+            //Xoa thong tin trong gio hang
             _db.GioHang.RemoveRange(giohang.DsGioHang);
             _db.SaveChanges();
 
-            return View("Index", "Home");
+            return RedirectToAction("Index", "Home");
         }
     }
 }

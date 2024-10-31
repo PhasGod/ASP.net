@@ -34,8 +34,8 @@
 										<nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
 											<div class="container-fluid">
 												<div class="col d-flex flex-row">
-													<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918577/phone.png" alt=""></div>+84 967 630 387</div>
-													<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918597/mail.png" alt=""></div><a href="mailto:fastsales@gmail.com">1822040869@dntu.edu.vn</a></div>
+													<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918577/phone.png" alt=""></div><a href="">+84 967 630 387</a></div>
+													<div class="top_bar_contact_item"><div class="top_bar_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918597/mail.png" alt=""></div><a href="mailto:1822040869@dntu.edu.vn">1822040869@dntu.edu.vn</a></div>
 													<div class="top_bar_content ml-auto">
 														<div class="top_bar_menu">
 															<ul class="standard_dropdown top_bar_dropdown">
@@ -55,9 +55,7 @@
 																		<li><a href="#">JPY Japanese Yen</a></li>
 																	</ul>
 																</li>
-																<li class="nav-item">
-																	<a class="nav-link" asp-action="Index" asp-controller="GioHang">Giỏ hàng</a>
-																</li>
+																
 															</ul>
 														</div>
 													</div>													
@@ -121,21 +119,17 @@
 					<!-- Wishlist -->
 					<div class="col-lg-4 col-9 order-lg-3 order-2 text-lg-left text-right">
 						<div class="wishlist_cart d-flex flex-row align-items-center justify-content-end">
-							<div class="wishlist d-flex flex-row align-items-center justify-content-end">
-								<div class="wishlist_icon"><img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918681/heart.png" alt=""></div>
-								<div class="wishlist_content">
-									<div class="wishlist_text"><a href="#">Wishlist</a></div>
-									<div class="wishlist_count">10</div>
-								</div>
-							</div>
-
+							
 							<!-- Cart -->
 							<div class="cart">
 								<div class="cart_container d-flex flex-row align-items-center justify-content-end">
 									<div class="cart_icon">
 										<a asp-action="Index" asp-controller="GioHang" class="as fa-comment-dollar" style="font-size:48px">	<img src="https://res.cloudinary.com/dxfq3iotg/image/upload/v1560918704/cart.png" alt=""></a>
-										<div class="cart_count">0</div>
-									</div>								
+										
+									</div>
+									<li class="nav-item text-black">
+										<a class="nav-link" asp-action="Index" asp-controller="GioHang">Giỏ hàng</a>
+									</li>
 								</div>
 							</div>
 						</div>
@@ -159,40 +153,23 @@
 
 							<div class="main_nav_menu">
 								<ul class="standard_dropdown main_nav_dropdown">
-									<li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Home<i class="fas fa-chevron-down"></i></a></li>
+									<li><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Trang chủ<i class="fas fa-chevron-down"></i></a></li>
 
 									<vc:the-loai></vc:the-loai>
 
-									<li class="hassubs">
-										<a href="#">Featured Brands<i class="fas fa-chevron-down"></i></a>
-										<ul>
-											<li>
-												<a href="#">APPLE<i class="fas fa-chevron-down"></i></a>
-												<ul>
-													<li><a href="#">Laptop<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Mobiles<i class="fas fa-chevron-down"></i></a></li>
-													<li><a href="#">Ipads<i class="fas fa-chevron-down"></i></a></li>
-												</ul>
-											</li>
-											<li><a href="#">Samsung<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">Lenovo<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="#">DELL<i class="fas fa-chevron-down"></i></a></li>
-										</ul>
-									</li>
+									<vc:gia-tien></vc:gia-tien>
 									<li class="hassubs">
 										<a href="#">Pages<i class="fas fa-chevron-down"></i></a>
 										<ul>
-											<li><a href="shop.html">Shop<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="product.html">Product<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="blog.html">Blog<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="blog_single.html">Blog Post<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="regular.html">Regular Post<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="cart.html">Cart<i class="fas fa-chevron-down"></i></a></li>
-											<li><a href="contact.html">Contact<i class="fas fa-chevron-down"></i></a></li>
+											<li><a href="https://www.facebook.com/trong.lemaiminh.7" target="_blank">FaceBook<i class="fas fa-chevron-down"></i></a></li>
+											<li><a href="https://www.tiktok.com/@@_phasgod" target="_blank">Tik Tok<i class="fas fa-chevron-down"></i></a></li>
+											<li><a href="https://www.instagram.com/phasgod/" target="_blank">Instagram<i class="fas fa-chevron-down"></i></a></li>
 										</ul>
+									</li>									
+									<li><a asp-controller="Home" asp-action="Blog">Blog<i class="fas fa-chevron-down"></i></a></li>
+									<li>
+										<a asp-area="Admin" asp-controller="Donhang" asp-action="Index"> Hóa đơn</a>
 									</li>
-									<li><a href="blog.html">Blog<i class="fas fa-chevron-down"></i></a></li>
-									<li><a href="contact.html">Contact<i class="fas fa-chevron-down"></i></a></li>
 								</ul>
 							</div>
 
@@ -370,24 +347,7 @@
 							</div>
 							<!-- Grid column -->
 							<!-- Grid column -->
-							<div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-								<!-- Links -->
-								<h6 class="text-uppercase fw-bold">Các sản phẩm chính</h6>
-								<hr class="mb-4 mt-0 d-inline-block mx-auto"
-									style="width: 60px; background-color: #7c4dff; height: 2px" />
-								<p>
-									<a href="#!" class="text-white">Laptop</a>
-								</p>
-								<p>
-									<a href="#!" class="text-white">Điện thoại</a>
-								</p>
-								<p>
-									<a href="#!" class="text-white">Đồng hồ thông minh</a>
-								</p>
-								<p>
-									<a href="#!" class="text-white">Microphone</a>
-								</p>
-							</div>
+
 							<!-- Grid column -->
 							<!-- Grid column -->
 							<div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
@@ -396,17 +356,15 @@
 								<hr class="mb-4 mt-0 d-inline-block mx-auto"
 									style="width: 60px; background-color: #7c4dff; height: 2px" />
 								<p>
-									<a href="#!" class="text-white">Facebook</a>
+									<a href="https://www.facebook.com/trong.lemaiminh.7" target="_blank" class="text-white">Facebook</a>
 								</p>
 								<p>
-									<a href="#!" class="text-white">Instargram</a>
+									<a href="https://www.instagram.com/phasgod/" target="_blank" class="text-white">Instargram</a>
 								</p>
 								<p>
-									<a href="#!" class="text-white">TikTok</a>
+									<a href="https://www.tiktok.com/@@_phasgod" target="_blank" class="text-white">TikTok</a>
 								</p>
-								<p>
-									<a href="#!" class="text-white">Zalo</a>
-								</p>
+
 							</div>
 							<!-- Grid column -->
 							<!-- Grid column -->
@@ -415,10 +373,13 @@
 								<h6 class="text-uppercase fw-bold">Liện hệ với chúng tôi bằng:</h6>
 								<hr class="mb-4 mt-0 d-inline-block mx-auto"
 									style="width: 60px; background-color: #7c4dff; height: 2px" />
-								<p><i class="fas fa-home mr-3"></i> Biên Hòa, Đồng Nai</p>
-								<p><i class="fas fa-envelope mr-3"></i>182240869@dntu.edu.vn</p>
+								<p><a class="fas fa-home mr-3"> Biên Hòa, Đồng Nai</a></p>
+								<p><a href="mailto:1822040869@dntu.edu.vn" >182240869@dntu.edu.vn</a></p>
 								<p><i class="fas fa-phone mr-3"></i> +84 967 630 387</p>
 								<p><i class="fas fa-print mr-3"></i> +84 987 270 812</p>
+								<P>Địa chỉ của chúng tôi</P>
+								<p>206, Đường Nguyễn Khuyến, KP5, Phường Trảng Dài, TP Biên Hoà, Tỉnh Đồng Nai</p>
+								<p><a href="https://maps.app.goo.gl/PnsUPFYMcm9zLC5o6" target="_blank">Xem trên Google Maps</a></p>
 							</div>
 							<!-- Grid column -->
 						</div>
@@ -442,6 +403,7 @@
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/1.js" asp-append-version="true"></script>
 	<script src="~/js/site.js" asp-append-version="true"></script>
+
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

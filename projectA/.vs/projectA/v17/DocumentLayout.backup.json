@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\LapTrinhWeb\\projectA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\customer\\views\\giohang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\giohang\\thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\donhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\admin\\views\\donhang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\donhang\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\admin\\views\\donhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\admin\\views\\donhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +31,16 @@
       "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\customer\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\giohang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\views\\shared\\components\\theloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|d:\\laptrinhweb\\projecta\\projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{996F0987-9EBC-4723-99C1-E49E36B5A65C}|projectA\\projectA.csproj|solutionrelative:projecta\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,73 +50,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "projectA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAKsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:11:26.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ThanhToan.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
-              "RelativeToolTip": "projectA\\Areas\\Customer\\Views\\GioHang\\ThanhToan.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-22T07:23:56.329Z",
+              "DocumentIndex": 1,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "projectA\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "projectA\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:50:46.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "projectA\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "projectA\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:16:36.55Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeToolTip": "projectA\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T04:48:40.081Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GioHangController.cs",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\GioHangController.cs",
-              "RelativeDocumentMoniker": "projectA\\Controllers\\GioHangController.cs",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\GioHangController.cs",
-              "RelativeToolTip": "projectA\\Controllers\\GioHangController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAQwE4AAAAIAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\DonHang\\Delete.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Areas\\Admin\\Views\\DonHang\\Delete.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\DonHang\\Delete.cshtml",
+              "RelativeToolTip": "projectA\\Areas\\Admin\\Views\\DonHang\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T04:47:29.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonHangController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\DonHangController.cs",
+              "RelativeDocumentMoniker": "projectA\\Controllers\\DonHangController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\DonHangController.cs",
+              "RelativeToolTip": "projectA\\Controllers\\DonHangController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T06:13:59.382Z",
+              "WhenOpened": "2024-10-31T04:27:09.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
-              "RelativeToolTip": "projectA\\Areas\\Customer\\Views\\GioHang\\Index.cshtml",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGQAAABJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\DonHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Areas\\Admin\\Views\\DonHang\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Admin\\Views\\DonHang\\Index.cshtml",
+              "RelativeToolTip": "projectA\\Areas\\Admin\\Views\\DonHang\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T07:42:36.075Z"
+              "WhenOpened": "2024-10-30T12:07:37.681Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "projectA\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAEsAAAASAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "projectA\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "projectA\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:28:31.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "RelativeToolTip": "projectA\\Views\\Shared\\Components\\TheLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T14:46:56.595Z"
+              "WhenOpened": "2024-10-31T04:19:07.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "projectA\\Controllers\\GioHangController.cs",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "projectA\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:08:53.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "projectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\LapTrinhWeb\\projectA\\projectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "projectA\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T15:02:44.019Z"
             }
           ]
         }

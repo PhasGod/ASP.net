@@ -31,12 +31,15 @@
                                 <th>Hành động</th>
                             </tr>
                         </thead>
-                        <tbody>                            
+                        <tbody>
+                            @{
+                                var counter = 1; // Initialize counter for automatic numbering
+                            }
                           @foreach(var item in Model.DsGioHang)
                           {
                                 
                                 <tr data-price="@item.SanPham.price">
-                                <td>1</td>
+                                    <td>@counter</td>
                                 <td>@item.SanPham.Name</td>
                                 <td><img src="@item.SanPham.ImageUrl" alt="San pham A" class="img-fluid" width="100" /></td>
                                 <td>@item.SanPham.price.ToString("N0") </td>
@@ -52,10 +55,9 @@
                                     <a asp-action="Xoa"
                                        asp-route-giohangId="@item.Id" class="btn btn-danger">&#128465;&#65039;</a>
                                 </td>
-                            </tr>
-                          }
-                            
-                            
+                            </tr> 
+                            counter++; 
+                          } 
                         </tbody>
                     </table>
                 </div>
@@ -99,6 +101,7 @@
 
                         <!-- Nút đặt hàng -->
                         <a asp-action="ThanhToan" asp-controller="GioHang" class="btn btn-success mt-3 w-100">Thanh Toán</a>
+                        <p>Cám ơn vì đã sử dụng dịch vụ !</p>
                     </div>
                 </div>
             </div>
